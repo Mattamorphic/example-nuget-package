@@ -4,6 +4,11 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <RootNamespace>example_nuget_package</RootNamespace>
+    <PackageVersion>1.0.3</PackageVersion>
+    <Authors>mattamorphic</Authors>
+    <SynchReleaseVersion>false</SynchReleaseVersion>
+    <ReleaseVersion>1.0.2</ReleaseVersion>
+    <PackOnBuild>true</PackOnBuild>
   </PropertyGroup>
 
 </Project>

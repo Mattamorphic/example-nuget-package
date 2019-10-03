@@ -2,10 +2,9 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
     <id>example-nuget-package</id>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <authors>Matt Barber</authors>
     <description>Example Nuget Package</description>
     <language>en-US</language>
-    <projectUrl>https://github.com/mattamorphic/example-nuget-package</projectUrl>
     </metadata>
 </package>
